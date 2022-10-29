@@ -1,7 +1,21 @@
 {
   "users": [
+    {},
     {
-      
-    }   
+      "username": "MUGALA",
+      "password": "rwagwertg",
+      "contact": "9381407373",
+      "email": "mugalavamshikrishna@gmail.com",
+      "address": "5-7 MALKAPUR KOTHAPALLY  KARIMNAGAR",
+      "id": 2
+    },
+    {
+      "username": "vamshi krishna",
+      "password": "sdfhuijs",
+      "contact": "9381407373",
+      "email": "mugalavamshikrishna@gmail.com",
+      "address": "5-7 MALKAPUR KOTHAPALLY  KARIMNAGAR",
+      "id": 3
+    }
   ]
 }
